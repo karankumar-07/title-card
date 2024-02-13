@@ -1,0 +1,44 @@
+.custom-card{
+  margin-top: 140px;
+  padding-top: 20px;
+  background-color: hsl(0, 0%, 12%)
+}
+
+.img {
+  max-width: 30%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.name{
+  font-size: 30px;
+  font-weight: 900;
+
+}
+.location{
+  color: green;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.name, .qoutes{
+  color: white;
+}
+
+.custom-button{
+  background-color: hsl(0, 0%, 20%);
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 15px;
+
+  
+}
+
+    
+body{
+  background-color: black;
+}
